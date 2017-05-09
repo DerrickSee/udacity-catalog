@@ -1,0 +1,15 @@
+flask
+bleach
+oauth2client
+requests
+httplib2
+redis
+passlib
+itsdangerous
+flask-httpauth
+flask_sqlalchemy
+Flask-Social
+flask-security
+python-twitter
+flask-marshmallow
+marshmallow-sqlalchemy
