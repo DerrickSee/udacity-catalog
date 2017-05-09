@@ -14,7 +14,7 @@ from flask_marshmallow import Marshmallow
 
 app = Flask(__name__)
 app.config['DEBUG'] = True
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://localhost/catalog'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql:///catalog'
 app.config['SOCIAL_TWITTER'] = {
     'consumer_key': 'cXFSbW3fBlriA9lp9Ohf9pMdy',
     'consumer_secret': 'WBONBFSMz1k09GsaHTXwyK6FlCXFplm5r9UBXolPCGuA9X0gJ6'
