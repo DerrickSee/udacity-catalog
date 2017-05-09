@@ -13,3 +13,4 @@ flask-security
 python-twitter
 flask-marshmallow
 marshmallow-sqlalchemy
+psycopg2
