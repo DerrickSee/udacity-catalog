@@ -14,3 +14,4 @@ python-twitter
 flask-marshmallow
 marshmallow-sqlalchemy
 psycopg2
+werkzeug
